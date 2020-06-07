@@ -10,6 +10,7 @@ Best practices [cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.2/first
 - Formatting with [black](https://github.com/psf/black)
 - Import sorting with [isort](https://github.com/timothycrosley/isort)
 - Linting with [flake8](http://flake8.pycqa.org/en/latest/)
+- Pylint with [pylint](https://github.com/PyCQA/pylint)
 
 ## Quickstart
 

@@ -10,6 +10,7 @@ flake8 = "*"
 black = "*"
 pytest = "*"
 pytest-cov = "*"
+pylint = "*"
 
 [packages]
 
