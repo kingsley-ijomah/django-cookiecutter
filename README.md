@@ -5,8 +5,6 @@ Best practices [cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.2/first
 ## Features
 
 - Django framework [flake8](https://docs.djangoproject.com/en/3.0/)
-- Testing with [pytest](https://docs.pytest.org/en/latest/)
-- Test Coverage with [pytest-cov](https://github.com/pytest-dev/pytest-cov)
 - Formatting with [black](https://github.com/psf/black)
 - Import sorting with [isort](https://github.com/timothycrosley/isort)
 - Linting with [flake8](http://flake8.pycqa.org/en/latest/)
