@@ -22,9 +22,6 @@ TERMINATOR = "\x1b[0m"
 def main():
     set_python_version()
     print(SUCCESS + "Project successfully initialized" + TERMINATOR)
-    print("cd <repo-name>")
-    print("Create environment with: " + "PIPENV_VENV_IN_PROJECT=true pipenv shell")
-    print("pipenv install --dev")
 
 
 if __name__ == "__main__":
