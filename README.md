@@ -4,7 +4,7 @@ Best practices [cookiecutter](https://cookiecutter.readthedocs.io/en/1.7.2/first
 
 ## Features
 
-- Django framework [flake8](https://docs.djangoproject.com/en/3.0/)
+- Django framework [django](https://docs.djangoproject.com/en/3.0/)
 - Formatting with [black](https://github.com/psf/black)
 - Import sorting with [isort](https://github.com/timothycrosley/isort)
 - Linting with [flake8](http://flake8.pycqa.org/en/latest/)
@@ -31,7 +31,4 @@ git init
 
 # Install dependencies
 pipenv install --dev
-
-#  Create .venv environment directory
-PIPENV_VENV_IN_PROJECT=true pipenv shell
 ```
