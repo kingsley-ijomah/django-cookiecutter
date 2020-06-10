@@ -7,7 +7,6 @@ verify_ssl = true
 isort = "*"
 flake8 = "*"
 black = "*"
-pylint = "*"
 
 [packages]
 django = "*"
